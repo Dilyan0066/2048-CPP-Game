@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\project 2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BD4C11-32FD-4383-B0B7-4EB3F433B2C9}|prooooooo\\prooooooo.vcxproj|C:\\Users\\user\\Desktop\\project 2048\\prooooooo\\prooooooo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BD4C11-32FD-4383-B0B7-4EB3F433B2C9}|prooooooo\\prooooooo.vcxproj|solutionrelative:prooooooo\\prooooooo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prooooooo.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\project 2048\\prooooooo\\prooooooo.cpp",
+              "RelativeDocumentMoniker": "prooooooo\\prooooooo.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\project 2048\\prooooooo\\prooooooo.cpp",
+              "RelativeToolTip": "prooooooo\\prooooooo.cpp",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAAALcBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T14:31:44.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
